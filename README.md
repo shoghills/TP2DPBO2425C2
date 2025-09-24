@@ -1,6 +1,6 @@
 # TP2DPBO2425C2
 
-Saya Rifa Muhammad Danindra dengan Nim 2405981 mengerjakan tugas praktikum 2 dalam mata kuliah Desain dan Pemprograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan Aamiin.
+Saya Rifa Muhammad Danindra dengan Nim 2405981 mengerjakan tugas praktikum 2 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan Aamiin.
 
 
 Desain Diagram
