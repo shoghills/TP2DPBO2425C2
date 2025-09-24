@@ -14,7 +14,8 @@ di kelas produk ada kode produk untuk kode setiap produknya lalu ada nama untuk 
 
 Alur Program
 
-kelas kelas berada di file masing masing di setiap bahasa lalu di mainnya akan ada pengisian hardcode dari data yang diisi lalu print keluaran dan add nya 
+semua bahasa
+kelas produk adalah kelas orang tua dan diisi dengan atribut atributnya yaitu kode produk nama, dan stok lalu dilanjut ke kelas produk elektronik yang mewarisi atribut dari orang tuanya yaitu kelas produk dan diisi juga dengan atributnya sendiri yaitu merk, daya dan harga, lalu dilanjut ke kelas lampu yang mewarisi atirbut dari orang tuanya dan atasnya lagi dan juga diisi dengan atribut yang sendiri yaitu tipe, warna dan bentuk  dan juga ditaruh method add lalu di main akan diisi semua datanya dengan hardcode lalu akan mengeluarkan output semua data yang ada dan juga akan mengeluarkan output untuk meminta masukan dengan menggunakan method add untuk masukan data baru tapi hanya sekali 
 
 
 
