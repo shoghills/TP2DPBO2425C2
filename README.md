@@ -16,3 +16,5 @@ Alur Program
 
 
 dokumentasi
+![Dokumentasi](cpp/dokumentasi/cpp.png)
+
