@@ -6,3 +6,4 @@ class Elektronik(Produk):
         self.merk = merk
         self.daya = daya
         self.harga = harga
+
