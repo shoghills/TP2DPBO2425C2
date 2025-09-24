@@ -25,7 +25,7 @@ CPP
 menampilkan data yang ada dan menambah data baru
 
 Java
-![Dokumentasi](java/dokumentasi/java.png)
+![Dokumentasi](java/dokumentasi/java2.png)
 menampilkan data yang ada dan menambah data baru
 
 PHP
