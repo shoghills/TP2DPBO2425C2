@@ -18,3 +18,11 @@ Alur Program
 dokumentasi
 ![Dokumentasi](cpp/dokumentasi/cpp.png)
 
+![Dokumentasi](java/dokumentasi/java.png)
+
+![Dokumentasi](php/dokumentasi/php2.png)
+
+![Dokumentasi](php/dokumentasi/php3.png)
+
+![Dokumentasi](python/dokumentasi/python.png)
+
