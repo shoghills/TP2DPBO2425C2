@@ -21,7 +21,7 @@ kelas produk adalah kelas orang tua dan diisi dengan atribut atributnya yaitu ko
 
 dokumentasi
 CPP
-![Dokumentasi](cpp/dokumentasi/cpp.png)
+![Dokumentasi](cpp/dokumentasi/cpp2.png)
 menampilkan data yang ada dan menambah data baru
 Java
 ![Dokumentasi](java/dokumentasi/java.png)
