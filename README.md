@@ -22,12 +22,19 @@ kelas produk adalah kelas orang tua dan diisi dengan atribut atributnya yaitu ko
 dokumentasi
 CPP
 ![Dokumentasi](cpp/dokumentasi/cpp.png)
+menampilkan data yang ada dan menambah data baru
 Java
 ![Dokumentasi](java/dokumentasi/java.png)
+menampilkan data yang ada dan menambah data baru
+
 PHP
 ![Dokumentasi](php/dokumentasi/php2.png)
 
 ![Dokumentasi](php/dokumentasi/php3.png)
+menampilkan data yang ada dan menambah data baru
+
 Python
 ![Dokumentasi](python/dokumentasi/python.png)
+menampilkan data yang ada dan menambah data baru
+
 
