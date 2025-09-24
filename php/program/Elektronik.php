@@ -13,3 +13,4 @@ class Elektronik extends Produk {
         $this->harga = $harga;
     }
 }
+
