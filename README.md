@@ -35,7 +35,7 @@ PHP
 menampilkan data yang ada dan menambah data baru
 
 Python
-![Dokumentasi](python/dokumentasi/python.png)
+![Dokumentasi](python/dokumentasi/python2.png)
 menampilkan data yang ada dan menambah data baru
 
 
