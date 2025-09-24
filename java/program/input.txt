@@ -1,0 +1,9 @@
+L006
+Lampu
+2
+Lem
+200
+20000
+Bulat
+Biru
+LED
